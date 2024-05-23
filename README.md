@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisaramax20&theme=dark_dimmed" alt="thisaramax20" /></a> </p>
 
 - 🌱 I’m currently learning **Java | Javascript | HTML | CSS | MySQL**
-- 💬 Ask me about **Java | Javascript |HTML | CSS | MySQL**
+- 💬 Ask me about **Java | Javascript | HTML | CSS | MySQL**
 
 
 <div> <a href="https://www.linkedin.com/in/thisarathejana20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
